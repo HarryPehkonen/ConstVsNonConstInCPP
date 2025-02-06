@@ -110,7 +110,7 @@ make
 
 ## License
 
-This project is licensed under MIT - see the LICENSE file for details.
+This project is in the public domain - see the LICENSE file for details.
 
 ## Contributing
 
